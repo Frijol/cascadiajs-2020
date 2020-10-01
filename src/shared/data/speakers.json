@@ -171,7 +171,15 @@
     "title": "Saving Data to the DWeb: A Primer and a Practical Perspective",
     "ytId": "imfMkFFmsnQ",
     "key": "kelsey-breseman",
-    "table": "speakers"
+    "table": "speakers",
+    "resources": [
+      {"title": "The Environmental Data and Governance Initiative", "url": "https://envirodatagov.org"},
+      {"title": "Current work analyzing EPA enforcement data", "url": "https://environmentalenforcementwatch.org"},
+      {"title": "Talk slides", "url": "https://docs.google.com/presentation/d/17PvpvJ4G2pFfk_XbeL5jMByvSH_pL5ar7V_-c9ksXm8/edit#slide=id.g6e40c5dcaa_0_0"},
+      {"title": "Public reading group on data's intersection with civics (and especially a decentralized web lens)", "url": "https://datatogether.org/"},
+      {"title": "Seattle decentralized web meetup", "url": "https://www.meetup.com/ProtoSchool-Seattle-Learn-to-Make-the-Decentralized-Web/"},
+      {"title": "Seattle decentralized web meetup Twitter", "url": "https://twitter.com/DwebSeattle"}
+    ]
   },
   {
     "location": "San Francisco, CA",
